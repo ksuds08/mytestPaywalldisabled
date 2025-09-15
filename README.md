@@ -1,6 +1,6 @@
 # AI Chatbot Application
 
-This is a simple AI chatbot application that integrates Stripe for payment processing. Users must pay to access the chatbot features.
+This is an enhanced AI chatbot application that integrates Stripe for payment processing and includes industry-standard chat conventions with streaming responses.
 
 ## Setup
 1. Clone the repository.
@@ -13,7 +13,7 @@ This is a simple AI chatbot application that integrates Stripe for payment proce
 5. Open your browser to `http://localhost:5000`.
 
 ## Features
-- Chat with an AI.
+- Chat with an AI using streaming responses.
 - Payment through Stripe.
 
 Replace `your_public_key` in `public/app.js` and `your_secret_key` in `.env` with your actual Stripe keys.
